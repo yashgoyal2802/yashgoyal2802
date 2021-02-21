@@ -1,8 +1,4 @@
-### Hi there 👋
-<!---
-[![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashgoyal2802)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashgoyal2802&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
--->
+## Hello, folks! <img src="https://github.com/yashgoyal2802/yashgoyal2802/blob/main/resources/elsalla.gif" width="30px">
 
 |<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashgoyal2802&&theme=buefy-dark&&show_icons=true&&hide_border=false&bg_color=1a1b27&icon_color=ff3860&title_color=7957d5&text_color=808080" />|<img align="center" height="195px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashgoyal2802&layout=compact&hide=jupyter%20notebook" />|
 |---|---|
