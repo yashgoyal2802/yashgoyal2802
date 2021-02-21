@@ -1,11 +1,7 @@
 ## Hello, folks! <img src="https://github.com/yashgoyal2802/yashgoyal2802/blob/main/resources/wave.gif" width="30px">
 
 I'm a Full Stack Developer, Machine Learning and Data Science Enthusiast from India. I'm currently pursuing my Btech(Hons) in CS. I am currently passionate about Neural Networks, S.E.O, Web Performances, Competitive Coding, Sustainability and Automation. When I'm not developing and building things, you can find me watching things on youtube, Netflix, daydreaming or on my laptop gaming. But most of my days are spent working on projects, listening to music or Studying.
-You can find me on [![LinkedIn][2.2]][2].
-
-<!-- Icons -->
-
-[2.2]:  https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+You can find me on [LinkedIn][2].
 
 <!-- Links to your social media accounts -->
 
