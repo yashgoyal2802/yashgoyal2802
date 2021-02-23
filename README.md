@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/yash-goyal-a572a4185/" target="blank"><icon color="white" <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="yash-goyal-a572a4185/" height="30" width="40"/></icon></a>
+<a href="https://linkedin.com/in/yash-goyal-a572a4185/" target="blank"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="yash-goyal-a572a4185/" height="30" width="40"/></a>
 <a href="https://instagram.com/yashgoyal__282" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="yashgoyal__282" height="30" width="40" /></a>
 </p>
 
