@@ -1,4 +1,4 @@
-## Hello, folks! <img src="https://github.com/yashgoyal2802/yashgoyal2802/blob/main/resources/wave.gif" width="30px">
+## Hello, folks! <img src="https://github.com/yashgoyal2802/yashgoyal2802/blob/main/resources/wave.gif" width="15px">
 
 I'm a Full Stack Developer, Machine Learning and Data Science Enthusiast from India. I'm currently pursuing my Btech(Hons) in CS. I am currently passionate about Neural Networks, S.E.O, Web Performances, Competitive Coding, Sustainability and Automation. When I'm not developing and building things, you can find me bingwatching on any OTT platform. But most of my days are spent working on projects, listening to music or Studying.
 
